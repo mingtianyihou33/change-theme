@@ -1,0 +1,19 @@
+.DS_Store
+createData.js
+node_modules/
+dist/
+visl*/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+visl*
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.vscode
+package-*
+yarn.lock

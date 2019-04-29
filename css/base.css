@@ -1,0 +1,22 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --base-color: #eaff9e;
+}
+
+body {
+    background: var(--base-color);
+}
+
+.btn-white {
+    background: white;
+    color: black;
+}
+
+.btn-black {
+    background: black;
+    color: white;
+}
